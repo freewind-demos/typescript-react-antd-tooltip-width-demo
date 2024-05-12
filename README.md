@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Tooltip Width Demo
 =================================
+
+原来要设置`overlayInnerStyle`
 
 ```
 npm install
